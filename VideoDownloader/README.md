@@ -1,7 +1,3 @@
-# Youtube Video Dowloader
-
-Download youtube videos for free
-
 ## Installation
 
 Requirements
@@ -10,7 +6,3 @@ Requirements
   pip install tkinter
   pip install pytube
 ```
-    
-## Functionalities
-
-- Download videos in high quality
